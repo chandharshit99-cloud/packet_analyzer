@@ -268,10 +268,3 @@ B.Tech — Computer Science & Engineering
 ⭐ If you find this project interesting, feel free to explore the code and experiment with the DPI engine.
 
 
-### One thing I'd strongly recommend
-
-Don't put **“This document explains everything...”** or overly detailed textbook explanations in your README. Your original README starts like that and then spends hundreds of lines explaining packet structure and individual implementation details. :contentReference[oaicite:0]{index=0}
-
-The new version feels much more like **“I built this project and here's how it works”** rather than **“I generated a documentation manual.”** 😎
-
-Also, your actual project already has a **simple version and a multi-threaded version**, so keeping both mentioned in the README is useful. :contentReference[oaicite:1]{index=1}
