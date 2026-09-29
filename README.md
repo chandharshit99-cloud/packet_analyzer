@@ -1,6 +1,6 @@
 You can replace your current README with this:
 
-# 🚀 DPI Engine — Deep Packet Inspection System
+#🚀 DPI Engine — Deep Packet Inspection System
 
 A high-performance **Deep Packet Inspection (DPI) engine built with C++17** for analyzing network traffic from PCAP files. The system parses network packets, tracks connections, identifies applications using HTTP/TLS metadata, and applies configurable blocking rules.
 
